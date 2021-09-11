@@ -1,0 +1,1 @@
+Oi, esse projeto é um estudo prático sobre Git.
